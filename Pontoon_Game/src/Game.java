@@ -1,11 +1,8 @@
-
-public class Game {
-
-	public static void main(String[] args) 
-	{
-		// TODO Auto-generated method stub
-		System.out.println("Aman");
-
-	}
-
+//This is the main class that runs the code.
+public class Game
+{
+    public static void main(String[] args)
+    {
+        Demo demo = new Demo(5,5);
+    }
 }
